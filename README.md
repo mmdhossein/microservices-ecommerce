@@ -23,7 +23,7 @@ gateway is listening on port 3000
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Denrox/nestjs-microservices-example.git -b main
+   git clone https://github.com/mmdhossein/microservices-ecommerce.git -b main
    ```
 2. Use docker compose to build all services images execute below command from the root of the repository.
    ```sh
